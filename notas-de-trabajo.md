@@ -1,7 +1,7 @@
 ## Parte 1 · Adquisición en vivo
 1. **El estado inicial.** 
 Hora 16:26 PM 11-11-2026
-![[escritorio 1.png]]
+¡[](escritorio 1.png)
 En el escritorio solo podemos ver el blog de nota abierto, y el txt de mara
 
 2. **La memoria RAM**
@@ -12,7 +12,7 @@ Para la memoria RAM hemos usado el programa DumpIT, luego hemos comprobado su ha
 ```
 -hashfile "D:\windows-7\windows\memoria\DumpIT\FORENSE-06-20261111-152719.raw" SHA256
 ```
-![[hash.png]]
+![[capturas/escritorio.png]]
 
 
 
