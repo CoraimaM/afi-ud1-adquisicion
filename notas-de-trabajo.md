@@ -1,7 +1,7 @@
 ## Parte 1 · Adquisición en vivo
 1. **El estado inicial.** 
 Hora 16:26 PM 11-11-2026
-¡[](escritorio 1.png)
+¡[](carpeta/escritorio 1.png)
 En el escritorio solo podemos ver el blog de nota abierto, y el txt de mara
 
 2. **La memoria RAM**
